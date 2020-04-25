@@ -1,0 +1,11 @@
+name: Cursey
+version: @version@
+main: io.github.paul1365972.cursey.Cursey
+api-version: 1.15
+authors: [Paul1365972]
+description: Adds the Curse of the Abyss (Strains of Ascension) from Made in Abyss
+
+commands:
+  cursey:
+    description: Cursey command
+    usage: /<command>
